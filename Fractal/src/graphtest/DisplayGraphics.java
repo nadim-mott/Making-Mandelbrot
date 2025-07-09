@@ -1,7 +1,7 @@
 package graphtest;
 
 import java.awt.*;  
-import javax.swing.JFrame;  
+import javax.swing.JFrame; 
   
 public class DisplayGraphics extends Canvas{  
     public static void main(String[] args) {  
