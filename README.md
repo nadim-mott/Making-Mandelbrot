@@ -4,6 +4,7 @@ A simple Java application to visualize the **Mandelbrot Set**. This project demo
 
 ## 📸 Screenshot
 
+![mandelbrot](assets/mandelbrot_sample.png)
 
 ## 🧮 Features
 
